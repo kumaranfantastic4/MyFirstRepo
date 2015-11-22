@@ -5,7 +5,7 @@ import java.util.Scanner;
  * Binary Search Algorithm
  * @author Kumaran, email<kumaranvoyant@gmail.com>
  * asymptotic notation 
- *  c.log2(n) operations
+ * c.log2(n) operations
  * output example 
  * Enter number of elements
  * 5
